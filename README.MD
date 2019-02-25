@@ -1,5 +1,3 @@
-# Project4 
-
 # FIFA 19 Ultimate Team Selector
 
 ### What is the main goal of our project and what hypothesis are we trying to test?
