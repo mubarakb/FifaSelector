@@ -28,10 +28,10 @@ We found a csv on Kaggle with detailed players stats for over 18,000 players in 
 
 The first step was to run a **K-Means Unsupervised** model and four regression models, which can help us isolate the top 15 player attributes for each position **Ridge Regression, Random Forest, SVM, and XGBoost***. Below you can see a few samples of those features in barcharts:
 
-![](https://github.com/Botafogo1894/Project4/blob/master/pictures/RF_GK2.png)
-![](https://github.com/Botafogo1894/Project4/blob/master/pictures/XGB_DF2.png)
-![](https://github.com/Botafogo1894/Project4/blob/master/pictures/Ridge_MD2.png)
-![](https://github.com/Botafogo1894/Project4/blob/master/pictures/SVM_ST2.png)
+![](/pictures/RF_GK2.png)
+![](/pictures/XGB_DF2.png)
+![](/pictures/Ridge_MD2.png)
+![](/pictures/SVM_ST2.png)
 
 As you can see from the graphs, Overall Rating is an important factor in some models, but not in all and there are a lot of other individual features taht were assigned higher weights than the Overall rating. 
 
