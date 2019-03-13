@@ -35,7 +35,7 @@ The first step was to run a **K-Means Unsupervised** model and four regression m
 
 As you can see from the graphs, Overall Rating is an important factor in some models, but not in all and there are a lot of other individual features taht were assigned higher weights than the Overall rating. 
 
-Next things we wanted to do was isolate all these important skills and run our top model - **XGBoos** to get weighted coffeicients for each attribute and multiply those together to create a final "Selector" score, which is a weighted combination of the most important attributes for each position - GK, DF, MD or ST. 
+Next things we wanted to do was isolate all these important skills and run our top model - **XGBoost** to get weighted coffeicients for each attribute and multiply those together to create a final "Selector" score, which is a weighted combination of the most important attributes for each position - GK, DF, MD or ST. 
 
 **Comapre Overall vs Selector Scores:** Plot players' overall scores and price versus their combined slector score
 
