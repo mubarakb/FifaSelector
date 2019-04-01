@@ -86,7 +86,7 @@ def pick_player_by_selector(budget, position, count = 3):
 
 The Graph below was generated after running our player recommender for the Central Midfielder position - CM. This helps us identify some of those players with high Overall rating, but low Selector score and vice versa:
 
-![](https://github.com/Botafogo1894/Project4/blob/master/pictures/Best_Pick_CM2.png)
+![](/pictures/Best_Pick_CM2.png)
 
 From the graph above you can see that there are a few players who cost over 20M, who have a low selector score. Here is the example in reverse below, where we're plotting the players that our algorithm recommends, rating them by Selector Score. You can see that not all of them have a high Overall Rating, but we know from our prior invesstigation on individual Model weights and insights that the players with the higher selector scores posses all the strong individual qualities to make a good defender.
 
