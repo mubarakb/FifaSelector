@@ -41,7 +41,7 @@ Next things we wanted to do was isolate all these important skills and run our t
 
 The Graphs below demonstrate that for a good number of the players, there is a somewaht linear correlation between Overall Rating and our Selector score. However, we can also clearly isolate many instances where players with a high Overall Rating, which cost a lot of money, do not actually posses high ratings for the individual skills that are important.
 
-![](https://github.com/Botafogo1894/Project4/blob/master/pictures/COmp_Df2.png)
+![](/pictures/COmp_Df2.png)
 
 In the example above, we can see that there is a "value separation area" right around 1.4-1.6 selector score, where you have a decent number of expensive players wiht high overall rating, that have a lower selector score, than some cheaper players towards the left corner of the graph, where you could be getting players with a much better all-around skillset for cheaper, just because their overall rating is not that high, so most recreational players are not drawn to bid up their price.
 
