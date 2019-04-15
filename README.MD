@@ -90,7 +90,7 @@ The Graph below was generated after running our player recommender for the Centr
 
 From the graph above you can see that there are a few players who cost over 20M, who have a low selector score. Here is the example in reverse below, where we're plotting the players that our algorithm recommends, rating them by Selector Score. You can see that not all of them have a high Overall Rating, but we know from our prior invesstigation on individual Model weights and insights that the players with the higher selector scores posses all the strong individual qualities to make a good defender.
 
-![](https://github.com/Botafogo1894/Project4/blob/master/pictures/CAM_selector.png)
+![](/pictures/CAM_selector.png)
 
 ## Writing our Ultimate Team Builder:
 
