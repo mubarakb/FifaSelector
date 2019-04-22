@@ -174,7 +174,7 @@ As you can see all of our players above, have a very high Selector score, which 
 
 Now let's see what the team would look like if we spend our max budget onplayers, which have higher FIFA Overall Rating. 
 
-![](https://github.com/Botafogo1894/Project4/blob/master/pictures/Max_budget_overall.png)
+![](/pictures/Max_budget_overall.png)
 
 As you can see from the two tables above, almost every player in the first chart has a higher Selector Score than their counterpart in the second chart, which means that our Algorithm picked a better curated, more balanced team. 
 
