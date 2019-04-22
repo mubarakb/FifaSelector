@@ -168,7 +168,7 @@ def pick_team_by_selector(budget, DF = 4, MD = 4, ST = 2, GK_coef = 0.05, DF_coe
 
 Below you can see the result of setting a max budget and seeing what the most optimal team looks like:
 
-![](https://github.com/Botafogo1894/Project4/blob/master/pictures/Final_team_selector.png)
+![](/pictures/Final_team_selector.png)
 
 As you can see all of our players above, have a very high Selector score, which is an indication that their individual stats are optimized for their specific position. 
 
