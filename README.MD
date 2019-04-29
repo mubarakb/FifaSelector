@@ -184,7 +184,7 @@ The Red Dots represent the average selector score for the algorithm that picks p
 
 ![](/pictures/Compare_final_22_teams.png)
 
-## Conclusion and Final Thoughts:
+## Final Thoughts:
 
 This was a very interestign deep dive, which gave us sufficient evidence that by quickly glancing at the Overall Rating score on a FIFA player's card and blindly spending yoru coins to get that player on your team, you're often not getting the best "bang for your buck". 
 
