@@ -182,7 +182,7 @@ To test the validity of our findings further, we iterated our algorithm through 
 
 The Red Dots represent the average selector score for the algorithm that picks players solely on their Overall rating.  As you can see, this data is a lot more incosistent and noisy and we get a few instances of teams with very low average Selector scores, which further supports our theory that a deeper dive into individual player stats and a more strategic allocation of your budget can result in a much stronger all-around team, which will crush your competition!
 
-![](https://github.com/Botafogo1894/Project4/blob/master/pictures/Compare_final_22_teams.png)
+![](/pictures/Compare_final_22_teams.png)
 
 ## Conclusion and Final Thoughts:
 
