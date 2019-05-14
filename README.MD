@@ -178,7 +178,7 @@ Now let's see what the team would look like if we spend our max budget onplayers
 
 As you can see from the two tables above, almost every player in the first chart has a higher Selector Score than their counterpart in the second chart, which means that our Algorithm picked a better curated, more balanced team. 
 
-To test the validity of our findings further, we iterated our algorithm through 22 different budgets ranging from 15M to 125M and plotted the avg Selector score per team and budget leftover. The Blue Dots belwo represent our Algorithms picks, whi are consisntently appearing in that high-value area, meaning that for every given budget our algorithm gets you the combination of players that maximize the most important soccer skills for each position. 
+To test the validity of our findings further, we iterated our algorithm through 22 different budgets ranging from 15M to 125M and plotted the avg Selector score per team and budget leftover. The Blue Dots below represent our Algorithms picks, whi are consisntently appearing in that high-value area, meaning that for every given budget our algorithm gets you the combination of players that maximize the most important soccer skills for each position. 
 
 The Red Dots represent the average selector score for the algorithm that picks players solely on their Overall rating.  As you can see, this data is a lot more incosistent and noisy and we get a few instances of teams with very low average Selector scores, which further supports our theory that a deeper dive into individual player stats and a more strategic allocation of your budget can result in a much stronger all-around team, which will crush your competition!
 
