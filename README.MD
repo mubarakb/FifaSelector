@@ -11,7 +11,7 @@
 
 **Obtaining Data:** 
 
-We found a csv on Kaggle with detailed players stats for over 18,000 players in FIFA 19. After cleaning up the data, standardazing our features and creating our categorical variables,  we ended up with 17907 players with 53 features
+We found our data from a Kaggle dataset with detailed players stats for over 18,000 players in FIFA 19. After cleaning up the data, standardazing our features and creating our categorical variables,  we ended up with 17907 players with 53 features
 
 **Outline of our process:** 
 
