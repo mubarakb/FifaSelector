@@ -94,7 +94,7 @@ From the graph above you can see that there are a few players who cost over 20M,
 
 ## Writing our Ultimate Team Builder:
 
-Below you can see the code for the final and most exciting part of our project - using the insights from our investigation and our selector score ratings to program an automatic team builder, which takes in the following paramters:
+Below you can see the code for the final and most exciting part of our project - using the insights from our investigation and our selector score ratings to program an automatic team builder, which takes in the following parameters:
 
 1. Total Budget you want to spent on your team
 2. What team formation you want to use (ex. 4-4-2 vs 3-5-2)
