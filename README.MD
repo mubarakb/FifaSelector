@@ -190,4 +190,5 @@ This was a very interestign deep dive, which gave us sufficient evidence that by
 
 We found that it is worth spending some extra time to click on that player and scroll through their individual stats, to make sure that they have higher values on all the important attributes for the respective position that they play. 
 
+
 Thank you. 
