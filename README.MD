@@ -1,5 +1,6 @@
 # FIFA 19 Ultimate Team Selector
 
+
 ### What is the main goal of our project and what hypothesis are we trying to test?
 
 - Our hypothesis is that picking a player, using the easy "Overall" stats, is not the best investment for your game coins.  In fact, the majority of people who play FIFA 19 tend to make that mistake, since the "Overall" Rating is the main stat that appears on the front of player cards which makes it an easy choice for most recreational players. 
